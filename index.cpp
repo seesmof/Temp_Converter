@@ -3,7 +3,7 @@
 using namespace std;
 
 // declare global variables
-double temp, F, C;
+int temp, F, C;
 char type;
 
 // create function to greet the user
@@ -64,5 +64,5 @@ int main(int argc, char **argv)
     cout << "*********************************************************" << endl;
 
     // end main function
-    return 0;
+    system("pause");
 }
