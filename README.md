@@ -1,4 +1,4 @@
-<h2 align="center">Paper Folder</h2>
+<h2 align="center">Temperature Converter</h2>
 
 <div align="center">
 
